@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @WindowsFacts
+- 👋 Hi, I’m Faulty Windows!
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on windows 12
-- 📫 How to reach me? You can't 😅
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking forward to recreate windows bloatware edition to windows 11 clean edition
+- 📫 How to reach me? discordmeow28@gmail.com
 
 <!---
 WindowsFacts/WindowsFacts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
